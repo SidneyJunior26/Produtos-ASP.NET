@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ProjetoMVC.Models.Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>ProjetoMVC20200609121546 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
