@@ -158,3 +158,5 @@ C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\bin\Debug\netcoreapp3.1\Micros
 C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\obj\Debug\netcoreapp3.1\ProjetoAPI.csproj.CoreCompileInputs.cache
 C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\obj\Debug\netcoreapp3.1\ProjetoAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\obj\Debug\netcoreapp3.1\ProjetoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\sidne\source\repos\ProjetoMVC\ProjetoAPI\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
